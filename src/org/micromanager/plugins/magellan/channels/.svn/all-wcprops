@@ -3,3 +3,39 @@ svn:wc:ra_dav:version-url
 V 103
 /svn/micromanager2/!svn/ver/15820/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/channels
 END
+ChannelComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/channels/ChannelComboBoxModel.java
+END
+ColorEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/channels/ColorEditor.java
+END
+ColorRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/channels/ColorRenderer.java
+END
+ChannelSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/channels/ChannelSetting.java
+END
+ChannelUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/channels/ChannelUtils.java
+END
+SimpleChannelTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/channels/SimpleChannelTableModel.java
+END

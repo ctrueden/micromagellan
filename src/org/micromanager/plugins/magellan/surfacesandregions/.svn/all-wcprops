@@ -3,3 +3,75 @@ svn:wc:ra_dav:version-url
 V 113
 /svn/micromanager2/!svn/ver/15820/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions
 END
+RegionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/RegionManager.java
+END
+MultiPosRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/MultiPosRegion.java
+END
+Point3d.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/Point3d.java
+END
+SurfaceTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/SurfaceTableModel.java
+END
+SurfaceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/SurfaceManager.java
+END
+SurfaceInterpolatorSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/SurfaceInterpolatorSimple.java
+END
+XYFootprint.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/XYFootprint.java
+END
+SurfaceRegionComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/SurfaceRegionComboBoxModel.java
+END
+SurfaceInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/SurfaceInterpolator.java
+END
+RegionTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/RegionTableModel.java
+END
+CurvedSurfaceCovariantCreationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/CurvedSurfaceCovariantCreationDialog.java
+END
+SingleResolutionInterpolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/surfacesandregions/SingleResolutionInterpolation.java
+END

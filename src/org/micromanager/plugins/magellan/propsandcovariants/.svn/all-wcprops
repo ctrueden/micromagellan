@@ -3,3 +3,111 @@ svn:wc:ra_dav:version-url
 V 113
 /svn/micromanager2/!svn/ver/15820/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants
 END
+CovariantValueCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/CovariantValueCellRenderer.java
+END
+CovariantPairValuesTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/CovariantPairValuesTableModel.java
+END
+EligibleCovariantTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/EligibleCovariantTableModel.java
+END
+DeviceControlChooserTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/DeviceControlChooserTableModel.java
+END
+CovariantPairingsTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/CovariantPairingsTableModel.java
+END
+CovariantPairingsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/CovariantPairingsManager.java
+END
+SurfaceDataImportDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/SurfaceDataImportDialog.form
+END
+SurfaceData.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/SurfaceData.java
+END
+CovariantValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/CovariantValue.java
+END
+Covariant.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/Covariant.java
+END
+CovariantType.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/CovariantType.java
+END
+DeviceControlTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/DeviceControlTableModel.java
+END
+CovariantValueCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/CovariantValueCellEditor.java
+END
+SurfaceDataImportDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/SurfaceDataImportDialog.java
+END
+CovariantPairing.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/CovariantPairing.java
+END
+CurvedSurfaceCalculations.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/CurvedSurfaceCalculations.java
+END
+SinglePropertyOrGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/SinglePropertyOrGroup.java
+END
+PropertyAndGroupUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/propsandcovariants/PropertyAndGroupUtils.java
+END

@@ -3,3 +3,81 @@ svn:wc:ra_dav:version-url
 V 99
 /svn/micromanager2/!svn/ver/15820/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc
 END
+HistogramUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/HistogramUtils.java
+END
+LicenseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/LicenseWriter.java
+END
+MD.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/MD.java
+END
+GlobalSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/GlobalSettings.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/Log.java
+END
+JavaUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/JavaUtils.java
+END
+MMFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/MMFrame.java
+END
+SortFunctionObjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/SortFunctionObjects.java
+END
+LongPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/LongPoint.java
+END
+NumberUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/NumberUtils.java
+END
+ProgressBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/ProgressBar.java
+END
+ExactlyOneRowSelectionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/ExactlyOneRowSelectionModel.java
+END
+LoadedAcquisitionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/misc/LoadedAcquisitionData.java
+END

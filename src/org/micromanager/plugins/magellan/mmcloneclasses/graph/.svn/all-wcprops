@@ -1,0 +1,67 @@
+END
+MultiChannelHistograms.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/mmcloneclasses/graph/MultiChannelHistograms.java
+END
+SingleChannelHistogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/mmcloneclasses/graph/SingleChannelHistogram.java
+END
+ChannelControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/mmcloneclasses/graph/ChannelControlPanel.java
+END
+GraphData.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/mmcloneclasses/graph/GraphData.java
+END
+GraphFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/mmcloneclasses/graph/GraphFrame.java
+END
+ContrastPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/mmcloneclasses/graph/ContrastPanel.java
+END
+HistogramPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/mmcloneclasses/graph/HistogramPanel.java
+END
+HistogramSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/mmcloneclasses/graph/HistogramSettings.java
+END
+Histograms.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/mmcloneclasses/graph/Histograms.java
+END
+GraphPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/mmcloneclasses/graph/GraphPanel.java
+END
+HistogramControlsState.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/mmcloneclasses/graph/HistogramControlsState.java
+END

@@ -3,3 +3,123 @@ svn:wc:ra_dav:version-url
 V 98
 /svn/micromanager2/!svn/ver/15820/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq
 END
+MultipleAcquisitionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/MultipleAcquisitionManager.java
+END
+MagellanTaggedImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/MagellanTaggedImage.java
+END
+MMImageCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/MMImageCache.java
+END
+FixedAreaAcquisition.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/FixedAreaAcquisition.java
+END
+TaggedImageStorageMultipageTiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/TaggedImageStorageMultipageTiff.java
+END
+MagellanEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/MagellanEngine.java
+END
+MultiResMultipageTiffStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/MultiResMultipageTiffStorage.java
+END
+AcquisitionEventSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/AcquisitionEventSource.java
+END
+FixedAreaAcquisitionSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/FixedAreaAcquisitionSettings.java
+END
+ParallelAcquisitionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/ParallelAcquisitionGroup.java
+END
+MultipageTiffReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/MultipageTiffReader.java
+END
+TaggedImageSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/TaggedImageSink.java
+END
+ExploreAcqSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/ExploreAcqSettings.java
+END
+ExploreAcquisition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/ExploreAcquisition.java
+END
+Acquisition.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/Acquisition.java
+END
+BDVXMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/BDVXMLWriter.java
+END
+AcquisitionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/AcquisitionEvent.java
+END
+SignalTaggedImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/SignalTaggedImage.java
+END
+MultipageTiffWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/MultipageTiffWriter.java
+END
+MultipleAcquisitionTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/acq/MultipleAcquisitionTableModel.java
+END

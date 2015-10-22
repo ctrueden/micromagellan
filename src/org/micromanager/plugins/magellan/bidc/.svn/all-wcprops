@@ -3,3 +3,39 @@ svn:wc:ra_dav:version-url
 V 99
 /svn/micromanager2/!svn/ver/15820/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bidc
 END
+RawBufferWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bidc/RawBufferWrapper.java
+END
+FrameAverageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bidc/FrameAverageWrapper.java
+END
+JavaLayerImageConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bidc/JavaLayerImageConstructor.java
+END
+FrameSummationWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bidc/FrameSummationWrapper.java
+END
+FrameIntegrationMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bidc/FrameIntegrationMethod.java
+END
+RankFilterWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bidc/RankFilterWrapper.java
+END

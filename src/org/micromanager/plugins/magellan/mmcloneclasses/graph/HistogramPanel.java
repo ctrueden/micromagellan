@@ -19,9 +19,9 @@
 //               CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
 //               INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
 //
-// CVS:          $Id: HistogramPanel.java 15820 2015-10-19 20:41:58Z henry $
+// CVS:          $Id: HistogramPanel.java 15821 2015-10-22 19:45:11Z henry $
 //
-package mmcloneclasses.graph;
+package org.micromanager.plugins.magellan.mmcloneclasses.graph;
 
 
 import java.awt.*;
@@ -33,7 +33,7 @@ import java.awt.geom.Point2D.Float;
 import java.util.ArrayList;
 import javax.swing.JPanel;
 import javax.swing.UIManager;
-import misc.JavaUtils;
+import org.micromanager.plugins.magellan.misc.JavaUtils;
 
 /**
  * Histogram view. 

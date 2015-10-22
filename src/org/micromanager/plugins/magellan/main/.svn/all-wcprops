@@ -3,3 +3,9 @@ svn:wc:ra_dav:version-url
 V 99
 /svn/micromanager2/!svn/ver/15820/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/main
 END
+Magellan.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/main/Magellan.java
+END

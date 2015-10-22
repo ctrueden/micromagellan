@@ -3,3 +3,39 @@ svn:wc:ra_dav:version-url
 V 98
 /svn/micromanager2/!svn/ver/15820/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/gui
 END
+StartupHelpWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/gui/StartupHelpWindow.java
+END
+GUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/gui/GUI.java
+END
+PropertyPairCreationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/gui/PropertyPairCreationDialog.java
+END
+GUI.form
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/gui/GUI.form
+END
+PropertyPairCreationDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/gui/PropertyPairCreationDialog.form
+END
+PickPropertiesGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/gui/PickPropertiesGUI.java
+END

@@ -3,3 +3,87 @@ svn:wc:ra_dav:version-url
 V 99
 /svn/micromanager2/!svn/ver/15820/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json
 END
+CookieList.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/CookieList.java
+END
+JSONWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/JSONWriter.java
+END
+HTTPTokener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/HTTPTokener.java
+END
+JSONStringer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/JSONStringer.java
+END
+JSONArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/JSONArray.java
+END
+JSONException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/JSONException.java
+END
+XMLTokener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/XMLTokener.java
+END
+Cookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/Cookie.java
+END
+HTTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/HTTP.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/Test.java
+END
+JSONObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/JSONObject.java
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/XML.java
+END
+JSONTokener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/JSONTokener.java
+END
+CDL.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/json/CDL.java
+END

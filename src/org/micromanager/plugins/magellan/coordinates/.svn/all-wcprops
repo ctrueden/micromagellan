@@ -3,3 +3,39 @@ svn:wc:ra_dav:version-url
 V 106
 /svn/micromanager2/!svn/ver/15820/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/coordinates
 END
+AffineUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/coordinates/AffineUtils.java
+END
+XYStagePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/coordinates/XYStagePosition.java
+END
+AffineCalibrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/coordinates/AffineCalibrator.java
+END
+AffineGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/coordinates/AffineGUI.java
+END
+AffineGUI.form
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/coordinates/AffineGUI.form
+END
+PositionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/coordinates/PositionManager.java
+END

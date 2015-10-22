@@ -3,3 +3,63 @@ svn:wc:ra_dav:version-url
 V 98
 /svn/micromanager2/!svn/ver/15820/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bdv
 END
+MagellanImgLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bdv/MagellanImgLoader.java
+END
+MultiResMPTiffVolatileByteArrayLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bdv/MultiResMPTiffVolatileByteArrayLoader.java
+END
+LegacyMagellanImgLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bdv/LegacyMagellanImgLoader.java
+END
+XMLIOMagellanImageLoader16Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bdv/XMLIOMagellanImageLoader16Bit.java
+END
+MagellanImgLoader16Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bdv/MagellanImgLoader16Bit.java
+END
+XMLIOMagellanImageLoader8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bdv/XMLIOMagellanImageLoader8Bit.java
+END
+MagellanImgLoader8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bdv/MagellanImgLoader8Bit.java
+END
+LegacyMagellanImgLoader16Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bdv/LegacyMagellanImgLoader16Bit.java
+END
+LegacyMagellanImgLoader8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bdv/LegacyMagellanImgLoader8Bit.java
+END
+MultiResMPTiffVolatileShortArrayLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/micromanager2/!svn/ver/15821/trunk/plugins/Magellan/src/org/micromanager/plugins/magellan/bdv/MultiResMPTiffVolatileShortArrayLoader.java
+END
