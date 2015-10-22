@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+		http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>sc.fiji</groupId>
+		<artifactId>pom-fiji</artifactId>
+		<version>16.1.0</version>
+		<relativePath />
+	</parent>
+
+	<groupId>org.micromanager</groupId>
+	<artifactId>micromagellan</artifactId>
+	<version>0.1.0-SNAPSHOT</version>
+
+	<name>Micro-Magellan</name>
+	<description>Magellan plugin for Micro-Manager</description>
+	<url>https://github.com/henrypinkard/micromagellan</url>
+	<inceptionYear>2015</inceptionYear>
+	<organization>
+		<name>TODO</name>
+		<url>TODO</url>
+	</organization>
+	<licenses>
+		<license>
+			<name>Simplified BSD License</name>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<id>henrypinkard</id>
+			<name>Henry Pinkard</name>
+			<url>https://github.com/henrypinkard</url>
+		</developer>
+	</developers>
+	<contributors>
+		<contributor><name>None</name></contributor>
+	</contributors>
+
+	<scm>
+		<connection>scm:git:git://github.com/henrypinkard/micromagellan</connection>
+		<developerConnection>scm:git:git@github.com:henrypinkard/micromagellan</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/henrypinkard/micromagellan</url>
+	</scm>
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/henrypinkard/micromagellan/issues</url>
+	</issueManagement>
+	<ciManagement>
+		<system>None</system>
+	</ciManagement>
+
+	<properties>
+		<commons-math.version>2.2</commons-math.version>
+		<commons-math3.version>3.4.1</commons-math3.version>
+		<guava.version>17.0</guava.version>
+		<micromanager.version>1.4.22</micromanager.version>
+		<enforcer.skip>true</enforcer.skip><!-- HACK FIXME -->
+	</properties>
+
+	<repositories>
+		<!-- NB: for project parent -->
+		<repository>
+			<id>imagej.public</id>
+			<url>http://maven.imagej.net/content/groups/public</url>
+		</repository>
+	</repositories>
+
+	<dependencies>
+		<!-- ImageJ dependencies -->
+		<dependency>
+			<groupId>net.imagej</groupId>
+			<artifactId>ij</artifactId>
+		</dependency>
+
+		<!-- ImgLib2 dependencies -->
+		<dependency>
+			<groupId>net.imglib2</groupId>
+			<artifactId>imglib2</artifactId>
+		</dependency>
+
+		<!-- BigDataViewer dependencies -->
+		<dependency>
+			<groupId>sc.fiji</groupId>
+			<artifactId>bigdataviewer-core</artifactId>
+		</dependency>
+
+		<!-- Micro-Manager dependencies -->
+		<dependency>
+			<groupId>org.micromanager</groupId>
+			<artifactId>MMCoreJ</artifactId>
+			<version>${micromanager.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.micromanager</groupId>
+			<artifactId>MMJ_</artifactId>
+			<version>${micromanager.version}</version>
+		</dependency>
+
+		<!-- Third party dependencies -->
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>${guava.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.miglayout</groupId>
+			<artifactId>miglayout</artifactId>
+			<classifier>swing</classifier>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-math</artifactId>
+			<version>${commons-math.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-math3</artifactId>
+			<version>${commons-math3.version}</version>
+		</dependency>
+	</dependencies>
+
+	<dependencyManagement>
+		<dependencies>
+			<!-- BigDataViewer BOM -->
+			<dependency>
+				<groupId>sc.fiji</groupId>
+				<artifactId>pom-bigdataviewer</artifactId>
+				<version>${pom-bigdataviewer.version}</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+
+	<build>
+		<sourceDirectory>${basedir}/src</sourceDirectory>
+		<resources>
+			<resource>
+				<directory>${project.basedir}/src</directory>
+				<excludes>
+					<exclude>**/*.java</exclude>
+					<exclude>**/package.html</exclude>
+				</excludes>
+			</resource>
+		</resources>
+	</build>
+</project>
